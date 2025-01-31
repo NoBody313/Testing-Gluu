@@ -1,1 +1,18 @@
-{}
+{
+    "Testing 1": {
+        "projectName": "Testing 1",
+        "description": "Testing",
+        "type": "community",
+        "author": "NoBody313",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/NoBody313/Testing-Gluu",
+        "githubUri": "https://github.com/NoBody313/Testing-Gluu",
+        "license": "apache-2.0",
+        "lastUpdated": "1738307275225",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
